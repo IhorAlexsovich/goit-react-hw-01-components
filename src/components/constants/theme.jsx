@@ -8,7 +8,7 @@ export const theme = Object.freeze({
     primaryText: '#212121',
     secondaryText: '#a3a0a0',
     bgLightColor: '#f8b57b',
-    boxShadow: '19px 27px 67px 13px rgba(0,0,0,0.57)',
+    boxShadow: '20px 10px 65px 12px rgba(0,0,0,0.25)',
   },
   spacing: value => `${4 * value}px`,
 });
