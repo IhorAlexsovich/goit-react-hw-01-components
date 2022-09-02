@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { Section } from '../common/Section.styled';
+import { Section } from '../../common/Section.styled';
 import { Header, StatList, StatListItem, StatLabel } from './Statistics.styled';
 
 export default function Statistics(props) {

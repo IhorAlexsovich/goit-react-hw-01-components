@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import FriendCard from './FriendCard';
-import { Section } from '../common/Section.styled';
+import { Section } from '../../common/Section.styled';
 
 export default function FriendsList(props) {
   //   const { avatar, name, isOnline, id } = props;

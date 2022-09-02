@@ -1,12 +1,12 @@
 import { GlobalStyle } from './GlobalStyle';
 import Profile from './Profile/Profile';
-import user from '../DataBase/user.json';
+import user from '../database/user.json';
 import Statistics from './Statistics/Statistics';
-import data from '../DataBase/data.json';
+import data from '../database/data.json';
 import FriendsList from './FriendList/FriendList';
-import friends from '../DataBase/friends.json';
+import friends from '../database/friends.json';
 import TransactionHistory from './Transactions/Transactions';
-import transactions from '../DataBase/transactions.json';
+import transactions from '../database/transactions.json';
 
 export const App = () => {
   return (
